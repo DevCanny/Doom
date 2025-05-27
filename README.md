@@ -11,7 +11,8 @@ https://github.com/coder-smookki/PyGame-DOOM-1993
 
 ## Update Log:
 ### v1.1
-* Added
-* Added
-* Readjusted
-* Removed
+* Added support for MacOS
+* Added a custom level.
+* Readjusted the shotgun
+
+## GLHF!
